@@ -1,7 +1,7 @@
 # Mathmatical-Toolbox-for-DCTLSM
 Derivation of the mathmatical toolbox for vector calculus in DCTLSM. Please open the file "toolbox_for_DCTLSM.md" with "Markdown".  
-About the author  
-==Guangqi Liu==  
+#About the author  
+Guangqi Liu   
 Contact information  
 Affiliation:  
 1	Shenyang Institute of Automation, Chinese Academy of Sciences, Shenyang 110016, China    
