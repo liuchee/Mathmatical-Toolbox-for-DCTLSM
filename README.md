@@ -3,7 +3,7 @@ Derivation of the mathmatical toolbox for vector calculus in DCTLSM. Please open
     
 Contact information：  
 ======================
-Guangqi Liu  
+Author: Guangqi Liu  
 Affiliation:  
 1	Shenyang Institute of Automation, Chinese Academy of Sciences, Shenyang 110016, China    
 2	Institutes for Robotics and Intelligent Manufacturing, Chinese Academy of Sciences, Shenyang 110169, China  
